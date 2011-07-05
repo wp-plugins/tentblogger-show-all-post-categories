@@ -2,8 +2,8 @@
 Contributors: tentblogger
 Tags: seo, blog, categories
 Requires at least: 3.0
-Tested up to: 3.0.4
-Stable tag: 1.1
+Tested up to: 3.2
+Stable tag: 2.0
 
 Tired of scrolling to find all your categories for that blog post? Use this to show all your blog post categories at the same time. Easy mode.
 
@@ -26,6 +26,9 @@ Nothing to setup - just install, activate, and go.
 1. TentBlogger Show All Categories
 
 == Changelog ==
+
+= 2.0 =
+* 3.2 compatibility
 
 = 1.1 =
 * Minor update to file path reference

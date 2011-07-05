@@ -3,7 +3,7 @@
 Plugin Name: TentBlogger Show All Categories
 Plugin URI: http://tentblogger.com/show-all-categories
 Description: This plugin does one very simple thing and yet can change the way you blog by saving you tons of time: It shows all your categories in the blog post editing screen in WordPress. No more scrolling to find that missing category! This is especially helpful if you've got a number of sub-categories as well.
-Version: 1.1
+Version: 2.0
 Author: TentBlogger
 Author URI: http://tentblogger.com
 License:
