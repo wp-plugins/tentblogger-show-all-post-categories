@@ -3,7 +3,7 @@ Contributors: tentblogger
 Tags: seo, blog, categories
 Requires at least: 3.0
 Tested up to: 3.2
-Stable tag: 2.0
+Stable tag: 2.1
 
 Tired of scrolling to find all your categories for that blog post? Use this to show all your blog post categories at the same time. Easy mode.
 
